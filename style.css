@@ -3,3 +3,8 @@
     font-style: italic;
     text-align: center;
 }
+p::first-line {
+    font: 1em sans-serif;
+word-spacing: 0.4em;
+font-weight: 900;
+}
