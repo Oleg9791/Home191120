@@ -8,3 +8,10 @@ p::first-line {
 word-spacing: 0.4em;
 font-weight: 900;
 }
+.e {
+    font-size: 20px;
+    color: rgb(51, 13, 156);
+}
+body {
+    background-color: rgb(91, 105, 11);
+}
